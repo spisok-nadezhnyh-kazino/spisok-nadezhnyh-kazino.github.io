@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-nadezhnyh-kazino.github.io
+Sitemap: https://spisok-nadezhnyh-kazino.github.io/sitemap.xml
